@@ -1,0 +1,7 @@
+author = "Casper Kraakman";
+disabledAI = 1;
+
+#include "functions\cfgFunctions.hpp"
+#include "gui\defines.hpp"
+#include "gui\adminMenuDialog.hpp"
+
